@@ -1,0 +1,4 @@
+app:
+  jwt:
+    secret: "change-this-to-a-256-bit-secret-string"
+    expiration-ms: 604800000  # 7 days
